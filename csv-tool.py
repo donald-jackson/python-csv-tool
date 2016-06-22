@@ -13,6 +13,8 @@ class CSVFile(object):
 
 file_name = raw_input("Please enter filename: ")
 
+#No validation that the user entered a file name? Hectic.
+
 user_file = CSVFile(file_name)
 
 print "Row count is: " + str(user_file.rowCount())
