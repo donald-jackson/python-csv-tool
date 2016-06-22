@@ -2,6 +2,11 @@ Python CSV Tool
 ======
 This is a beginner level project to process CSV data using Python.
 
+Features
+------
+Currently the CSV tool is able to:
+1. Count rows (amazing!!!)
+
 Instructions
 ------
 1. Open your terminal and navigate to the directory that contains csv-tool.py
